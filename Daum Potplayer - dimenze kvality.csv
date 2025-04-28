@@ -1,0 +1,26 @@
+﻿S.NO.,Key,Version,Title,Owner
+1,SOFT-TC-35,1,"Dimenze kvality  -  funkčnost - Daum PotPlayer - přehraje formáty - MP4, MKV, AVI, FLAC, MP3, MPG",Martin Továrek
+2,SOFT-TC-36,1,"Dimenze kvality  -  funkčnost - Daum PotPlayer - podporuje externí i vložené titulky ",Martin Továrek
+3,SOFT-TC-37,1,Dimenze kvality - použitelnost - Daum PotPlayer - přepínání zvukového proudu,Martin Továrek
+4,SOFT-TC-38,1,Dimenze kvality - použitelnost - Daum PotPlayer - přepínání poměru stran,Martin Továrek
+5,SOFT-TC-39,1,Dimenze kvality - spolehlivost - Daum PotPlayer - přehrání neúplného souboru PART,Martin Továrek
+6,SOFT-TC-40,1,Dimenze kvality - výkonnost - Daum PotPlayer - přehraje 10 souborů z externího disku,Martin Továrek
+7,SOFT-TC-41,1,Dimenze kvality - výkonnost - Daum PotPlayer - přehraje video ve 4K bez nadměrného zatížení systému,Martin Továrek
+8,SOFT-TC-42,1,"Dimenze kvality - spolehlivost - Daum PotPlayer - test přehrání 22 videosouborů
+",Martin Továrek
+9,SOFT-TC-43,1,"Dimenze kvality - kompatibilita - Daum PotPlayer - program přehraje z externích USB zařízení (flash disku a mechaniky DVD)
+",Martin Továrek
+10,SOFT-TC-44,1,"Dimenze kvality - kompatibilita - Daum PotPlayer - propojení a přehrání video souboru přes HDMI kabel
+",Martin Továrek
+11,SOFT-TC-45,1,"Dimenze kvality - přenositelnost - Daum PotPlayer - program lze nainstalovat na notebook
+",Martin Továrek
+12,SOFT-TC-46,1,"Dimenze kvality - přenositelnost - Daum PotPlayer - program lze nainstalovat na tablet
+",Martin Továrek
+13,SOFT-TC-47,1,"Dimenze kvality - bezpečnost - Daum PotPlayer - test škodlivosti programu
+",Martin Továrek
+14,SOFT-TC-48,1,"Dimenze kvality - bezpečnost - Daum PotPlayer - otevření souboru se změnou příponou
+",Martin Továrek
+15,SOFT-TC-49,1,"Dimenze kvality - udržitelnost - Daum PotPlayer - změny ve verzích
+",Martin Továrek
+16,SOFT-TC-50,1,"Dimenze kvality - udržitelnost - Daum PotPlayer - kontaktování technické podpory
+",Martin Továrek
