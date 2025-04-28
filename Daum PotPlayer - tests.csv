@@ -1,0 +1,11 @@
+﻿S.NO.,Key,Version,Title,Owner
+1,SOFT-TC-1,1,"Daum PotPlayer - přehravač přehraje video formáty - AVI,MKV,MP4",Martin Továrek
+2,SOFT-TC-2,1,"Daum PotPlayer - přehrávač přehraje audio soubory mp3, flac, cue. ",Martin Továrek
+3,SOFT-TC-3,1,Daum PotPlayer - přehrávač přehraje video soubor s titulky zvlášť,Martin Továrek
+4,SOFT-TC-4,1,Daum PotPlayer - přehrávač se pravidelně aktualizuje,Martin Továrek
+5,SOFT-TC-5,1,Daum PotPlayer - přehrávač funguje na Androidu,Martin Továrek
+6,SOFT-TC-6,1,Daum PotPlayer - přehraje soubory z externího disku větší než 20 GB,Martin Továrek
+7,SOFT-TC-8,1,Daum PotPlayer - přehraje UHD video,Martin Továrek
+8,SOFT-TC-9,1,Daum PotPlayer - jde nainstalovat do jiného zařízení - notebook,Martin Továrek
+9,SOFT-TC-10,1,Daum PotPlayer - přehraje film z externí DVD mechaniky,Martin Továrek
+10,SOFT-TC-11,1,Daum PotPlayer - přehravač funguje když se z externího disku kopíruje,Martin Továrek
